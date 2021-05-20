@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{269:function(n,e,o){"use strict";o.r(e),e.default={pages:{home:"Главная",projects:"Проекты",about:"Обо мне",controlPanel:"Панель управления"},buttons:{contactMe:"Написать мне 👋🏻",menu:"Меню"},mobileMenu:{navigation:"Навигация",changeLanguage:"Сменить язык"}}}}]);
