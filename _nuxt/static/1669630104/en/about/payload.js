@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/about", {data:[{}],fetch:{},mutations:[["projects\u002FCLEAR_PROJECTS",void 0]]});
