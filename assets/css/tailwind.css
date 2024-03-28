@@ -25,6 +25,10 @@
   h3 {
     @apply text-[1.75rem];
   }
+
+  small {
+    @apply text-sm text-neutral-400 md:text-lg dark:text-neutral-500;
+  }
 }
 
 @layer components {
